@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+        "_id":"dress1",
+        "title":"Incognito Square Flap Bag Quilted Caviar Mini",
+        "image":"/images/dress1.jpg",
+        "description":"Incognito Square Flap Bag Quilted Caviar Mini",
+        "price":19.9,
+        "availableSizes":["XL","XXL"]
+        },
+        {
+            "_id":"dress2",
+            "title":"Cassandra Top Handle Bag Leather Mini",
+            "image":"/images/dress2.jpg",
+            "description":"Cassandra Top Handle Bag Leather Mini",
+            "price":29.4,
+            "availableSizes":["S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"dress3",
+            "title":"Classic Box Bag Grainy Leather Medium",
+            "image":"/images/dress3.jpg",
+            "description":"Classic Box Bag Grainy Leather Medium",
+            "price":39.0,
+            "availableSizes":["S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"dress4",
+            "title":"Cassandra Top Handle Bag Leather Mini",
+            "image":"/images/dress4.jpg",
+            "description":"Cassandra Top Handle Bag Leather Mini",
+            "price":49.5,
+            "availableSizes":["S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"dress5",
+            "title":"Strap You Shoulder Strap Leather",
+            "image":"/images/dress5.jpg",
+            "description":"Strap You Shoulder Strap Leather",
+            "price":49.8,
+            "availableSizes":["S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"dress6",
+            "title":"Macken Crossbody Bag Leather and House Check Canvas Small",
+            "image":"/images/dress6.jpg",
+            "description":"Macken Crossbody Bag Leather and House Check Canvas Small",
+            "price":59.4,
+            "availableSizes":["S","M","L","XL","XXL"]
+        }    
+    ]
+}
